@@ -1,0 +1,11 @@
+C:\Users\wellingtonribeiro\source\repos\ExercicioLogica\ExercicioLogica\bin\Debug\netcoreapp3.1\ExercicioLogica.exe
+C:\Users\wellingtonribeiro\source\repos\ExercicioLogica\ExercicioLogica\bin\Debug\netcoreapp3.1\ExercicioLogica.deps.json
+C:\Users\wellingtonribeiro\source\repos\ExercicioLogica\ExercicioLogica\bin\Debug\netcoreapp3.1\ExercicioLogica.runtimeconfig.json
+C:\Users\wellingtonribeiro\source\repos\ExercicioLogica\ExercicioLogica\bin\Debug\netcoreapp3.1\ExercicioLogica.runtimeconfig.dev.json
+C:\Users\wellingtonribeiro\source\repos\ExercicioLogica\ExercicioLogica\bin\Debug\netcoreapp3.1\ExercicioLogica.dll
+C:\Users\wellingtonribeiro\source\repos\ExercicioLogica\ExercicioLogica\bin\Debug\netcoreapp3.1\ExercicioLogica.pdb
+C:\Users\wellingtonribeiro\source\repos\ExercicioLogica\ExercicioLogica\obj\Debug\netcoreapp3.1\ExercicioLogica.csprojAssemblyReference.cache
+C:\Users\wellingtonribeiro\source\repos\ExercicioLogica\ExercicioLogica\obj\Debug\netcoreapp3.1\ExercicioLogica.AssemblyInfoInputs.cache
+C:\Users\wellingtonribeiro\source\repos\ExercicioLogica\ExercicioLogica\obj\Debug\netcoreapp3.1\ExercicioLogica.AssemblyInfo.cs
+C:\Users\wellingtonribeiro\source\repos\ExercicioLogica\ExercicioLogica\obj\Debug\netcoreapp3.1\ExercicioLogica.dll
+C:\Users\wellingtonribeiro\source\repos\ExercicioLogica\ExercicioLogica\obj\Debug\netcoreapp3.1\ExercicioLogica.pdb
