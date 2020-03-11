@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\wellingtonribeiro\\source\\repos\\ExercicioLogica\\ExercicioLogica\\ExercicioLogica.csproj": {}
+    "C:\\Users\\wellingtonribeiro\\git-curso\\ExercicioLogica\\ExercicioLogica\\ExercicioLogica.csproj": {}
   },
   "projects": {
-    "C:\\Users\\wellingtonribeiro\\source\\repos\\ExercicioLogica\\ExercicioLogica\\ExercicioLogica.csproj": {
+    "C:\\Users\\wellingtonribeiro\\git-curso\\ExercicioLogica\\ExercicioLogica\\ExercicioLogica.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\wellingtonribeiro\\source\\repos\\ExercicioLogica\\ExercicioLogica\\ExercicioLogica.csproj",
+        "projectUniqueName": "C:\\Users\\wellingtonribeiro\\git-curso\\ExercicioLogica\\ExercicioLogica\\ExercicioLogica.csproj",
         "projectName": "ExercicioLogica",
-        "projectPath": "C:\\Users\\wellingtonribeiro\\source\\repos\\ExercicioLogica\\ExercicioLogica\\ExercicioLogica.csproj",
+        "projectPath": "C:\\Users\\wellingtonribeiro\\git-curso\\ExercicioLogica\\ExercicioLogica\\ExercicioLogica.csproj",
         "packagesPath": "C:\\Users\\wellingtonribeiro\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\wellingtonribeiro\\source\\repos\\ExercicioLogica\\ExercicioLogica\\obj\\",
+        "outputPath": "C:\\Users\\wellingtonribeiro\\git-curso\\ExercicioLogica\\ExercicioLogica\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\wellingtonribeiro\\AppData\\Roaming\\NuGet\\NuGet.Config",
